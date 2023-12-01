@@ -1,0 +1,15 @@
+
+.bg-green{
+    background-color: #28A745;
+}
+footer{
+    background-color: #28A745;
+}
+
+.card text{
+  font-family: roboto;  
+}
+
+article, li,span{
+    color: green;
+}
